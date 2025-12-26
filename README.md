@@ -17,3 +17,7 @@
 <img src="https://github.com/user-attachments/assets/5f43f79e-f386-404d-b6e9-1acf047be597" width="400">
 <img src="https://github.com/user-attachments/assets/c89ebde8-8d9c-49e1-91b7-d2737a61404f" width="400">
 <img src="https://github.com/user-attachments/assets/e3d1ecc1-cdf3-4b2e-ab64-a5f21434a6a8" width="400">
+
+
+📝 최신 조행기 바로가기
+* [📍 미션 신기지 조행기 읽기](https://caddis-gr.github.io/web-docs2/미션%20신기지.html)
