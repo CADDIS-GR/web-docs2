@@ -14,3 +14,6 @@
 ---
 
 > "모르면 모른다고 한다." - 낚시대장의 기록 철학
+![IMG_6707](https://github.com/user-attachments/assets/5f43f79e-f386-404d-b6e9-1acf047be597)
+![IMG_6706](https://github.com/user-attachments/assets/c89ebde8-8d9c-49e1-91b7-d2737a61404f)
+![IMG_6705](https://github.com/user-attachments/assets/e3d1ecc1-cdf3-4b2e-ab64-a5f21434a6a8)
